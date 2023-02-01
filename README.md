@@ -1,2 +1,2 @@
-# piekary-into-space
-Dokumentacja Piekarskiego Programu Kosmicznego
+# Piekarski Program Kosmiczny
+Dokumentacja Piekarskiego Programu Kosmicznego.
