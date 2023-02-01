@@ -10,7 +10,7 @@
 - Prędkość max:
 - Stan:
 
-## Zasłużeni
+## Zasłużeni:
 
 
-## Video
+## Video:

@@ -11,7 +11,7 @@ Pierwsza rakieta programu. Zakupiona w sklepie Sun Models https://sunmodels.pl/m
 - Prędkość max: N/A
 - Stan: magazyn, gotowa do startu po uzupełnieniu silników
 
-## Zasłużeni
+## Zasłużeni:
 - Pola Jagoda (start rakiety)
 - Karol Godula (start rakiety)
 - Dawid Jagoda (odpalenie silnika, wideo)
