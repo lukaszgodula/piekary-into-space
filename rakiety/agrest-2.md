@@ -1,6 +1,6 @@
 # Agrest-2
 ## Opis:
-Druga rakieta programu. Bazuje na projkecie rozpoczętym przez Macieja Szulika. 
+Druga rakieta programu. Bazuje na projekcie rozpoczętym przez Macieja Szulika. 
 Przewiduje znaczące zwiększenie ciągu w stosunku do poprzednika. Zastosowano elektryczny zapalnik silnika. Jest to teź pierwsza rakieta własnej produkcji.
 Do projektu uźyto oprogramowania OpenRocket.
 
